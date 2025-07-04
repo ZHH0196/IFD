@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Java
+java-backend/target/
+
+# Node
+vue-frontend/node_modules/
